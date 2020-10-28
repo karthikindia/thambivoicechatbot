@@ -40,7 +40,7 @@ def greetMe():
 
 greetMe()
 
-speak('I am your assistant SKAVA ,How may I help you?')
+speak('I am your assistant THAMBI ROBOT, How may I help you?')
 
 
 def myCommand():
@@ -76,7 +76,7 @@ if __name__ == '__main__':
 
         elif 'open google' in query:
             speak('okay')
-            webbrowser.open('www.google.co.in')
+            webbrowser.open('www.google.com.sg')
 
         elif 'open gmail' in query:
             speak('okay')
